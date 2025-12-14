@@ -6,9 +6,9 @@
 
 > 🏆 **AWARD WINNER:** 1st Place at the University Software Development Competition (Selected among 24 participating teams).
 
-# This project was created as a group effort with Adam, Alex, and David during a one-week basic programming practice session in the Introduction to Programming course at the University of Mainz.
+This project was created as a group effort with @aserrajjj, @alexricardo02, and @susda during a one-week basic programming practice session in the Introduction to Programming course at the University of Mainz.
 
-# If you have any questions or suggestions for improvements regarding the published game, please feel free to write to us
+If you have any questions or suggestions for improvements regarding the published game, please feel free to write to us
 
 ## 📄 Project Overview
 
